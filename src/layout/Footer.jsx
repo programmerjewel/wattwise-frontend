@@ -12,7 +12,7 @@ const Footer = () => {
           </h2>
           <p className="text-sm mt-3 leading-relaxed text-gray-400">
             WattWise helps you monitor and visualize electricity consumption for every meter — 
-uncover patterns, reduce waste, and make data-driven energy decisions with ease.
+            uncover patterns, reduce waste, and make data-driven energy decisions with ease.
           </p>
         </div>
 
